@@ -10,5 +10,5 @@ Many people struggle to get loans due to insufficient or non-existent credit his
 
 *  Also you can access the dataset information here : https://www.kaggle.com/c/home-credit-default-risk
 
-## Kaggle  
+## My Kaggle Notebook
 https://www.kaggle.com/kubrabilinmis/homecredit-default-riskk
